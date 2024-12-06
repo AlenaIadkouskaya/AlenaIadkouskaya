@@ -35,6 +35,7 @@ This application significantly improves communication between employees and mana
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaIadkouskaya&layout=compact&theme=radical)
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlenaIadkouskaya&color=blue)
+![Contribution Snake](https://github.com/your_username/AlenaIadkouskaya/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contact Me
