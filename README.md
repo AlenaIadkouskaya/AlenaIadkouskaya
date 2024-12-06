@@ -34,4 +34,4 @@ This application significantly improves communication between employees and mana
 ## 📫 Contact Me
 
 - Email: [eiodkovskaya6@gmail.com](mailto:eiodkovskaya6@gmail.com)
-- Telegram: [@@iod_e](https://t.me/@iod_e)
+- Telegram: [@iod_e](https://t.me/@iod_e)
