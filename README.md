@@ -31,8 +31,8 @@ This application significantly improves communication between employees and mana
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaIadkouskaya&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaIadkouskaya&layout=compact&theme=radical)
 ---
 
 ## 📫 Contact Me
