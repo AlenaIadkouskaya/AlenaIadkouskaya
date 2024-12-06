@@ -1,4 +1,4 @@
-# 👋 Welcome to My Profile!
+# Welcome to My GitHub! 🌟  
 
 ## 🛠️ My Projects
 
@@ -30,6 +30,9 @@ This application significantly improves communication between employees and mana
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </p>
 
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
 ---
 
 ## 📫 Contact Me
