@@ -3,6 +3,16 @@
 ## 🛠️ My Project
 
 [**Leave Request System**](https://github.com/AlenaIadkouskaya/leaveRequestSystem)   
+A web application designed to streamline the process of submitting, approving, or rejecting leave requests. 
+
+Key Features:
+
+Fast Submission: Simplify the process of applying for leave.
+Efficient Approval: Managers can quickly approve or reject applications.
+Real-Time Status Updates: Employees can monitor the status of their requests instantly.
+Paperless Workflow: Reduces reliance on physical documents, making the process eco-friendly and organized.
+
+This application significantly improves communication between employees and management while reducing administrative overhead.
 
 ### Technologies Used:
 
