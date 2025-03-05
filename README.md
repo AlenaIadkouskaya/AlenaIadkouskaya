@@ -37,6 +37,7 @@ This is a web application that functions as a Telegram bot acting as an intervie
   <img src="https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 21">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Telegram%20Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
+  <img src="https://img.shields.io/badge/ChatGPT-00A9F4?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
 ---
