@@ -30,6 +30,9 @@ This application significantly improves communication between employees and mana
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </p>
 
+[**Interview Bot for Java Developers**](https://github.com/AlenaIadkouskaya/javaProgrammingInterviewBot)   
+This is a web application that functions as a Telegram bot acting as an interviewer. The bot sends a question to ChatGPT, receives the candidate's response in the form of an audio message, and asks the next question. The number of questions is configurable within the app. At the end of the interview, the bot provides feedback.
+
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaIadkouskaya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaIadkouskaya&layout=compact&theme=radical)
