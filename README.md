@@ -33,6 +33,12 @@ This application significantly improves communication between employees and mana
 [**Interview Bot for Java Developers**](https://github.com/AlenaIadkouskaya/javaProgrammingInterviewBot)   
 This is a web application that functions as a Telegram bot acting as an interviewer. The bot sends a question to ChatGPT, receives the candidate's response in the form of an audio message, and asks the next question. The number of questions is configurable within the app. At the end of the interview, the bot provides feedback.
 
+<p>
+  <img src="https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Telegram%20Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
+</p>
+
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaIadkouskaya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaIadkouskaya&layout=compact&theme=radical)
