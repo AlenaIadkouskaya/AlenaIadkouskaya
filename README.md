@@ -37,7 +37,7 @@ The application allows users to add information about goods purchases to the dat
     without filters – full list
     with sorting options (by name, by date)
   Includes the ability to save a new order to an XML file.
-
+### Technologies Used:
 <p>
   <img src="https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 21">
   <img src="https://img.shields.io/badge/Swing-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Swing">
@@ -46,7 +46,7 @@ The application allows users to add information about goods purchases to the dat
 
 [**Interview Bot for Java Developers**](https://github.com/AlenaIadkouskaya/javaProgrammingInterviewBot)   
 This is a web application that functions as a Telegram bot acting as an interviewer. The bot sends a question to ChatGPT, receives the candidate's response in the form of an audio message, and asks the next question. The number of questions is configurable within the app. At the end of the interview, the bot provides feedback.
-
+### Technologies Used:
 <p>
   <img src="https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 21">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
